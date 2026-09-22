@@ -1,8 +1,4 @@
-# 📄 README.md — HealthEase
 
-Create `README.md` at your project root and paste this:
-
-```markdown
 # 🏥 HealthEase
 
 > **Your Health, Your Hands 💚**
